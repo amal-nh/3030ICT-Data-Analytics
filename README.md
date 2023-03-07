@@ -1,4 +1,4 @@
 # 3030ICT-Data-Analytics
-Submissions
+Lab Submissions
 Full Name: Amal Norman Hakim 
 sNumber: s5260053
